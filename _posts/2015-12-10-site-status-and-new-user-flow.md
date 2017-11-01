@@ -1,8 +1,10 @@
 ---
 title: Site Status and New User Flow
-category: Features
+date: 2015-12-10 00:00:00 +13:00
+categories:
+- Features
 author: ross
-image: /images/blog/site-status-and-new-user-flow/site-status@2x.png
+image: "/images/blog/site-status-and-new-user-flow/site-status@2x.png"
 image_featured: false
 ---
 

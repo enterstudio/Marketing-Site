@@ -1,9 +1,11 @@
 ---
-layout: post
 title: How to build a status page with Jekyll and Uptimerobot
+date: 2017-11-02 03:46:51.575000000 +13:00
+categories:
+- Features
+layout: post
 header: How to build a Jekyll status page
-category: Features
-image: /images/blog/status-page/banner@2x.png
+image: "/images/blog/status-page/banner@2x.png"
 author: george
 ---
 

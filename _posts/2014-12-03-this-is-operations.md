@@ -1,10 +1,12 @@
 ---
 title: The ops team
-category: Operations
+date: 2014-12-03 00:00:00 +13:00
+permalink: "/operations/2014/12/03/this-is-operations.html"
+categories:
+- Operations
 author: tim
-image:
+image: 
 image_featured: false
-permalink: /operations/2014/12/03/this-is-operations.html
 ---
 
 Hi I’m Tim, the guy keeping all the servers running. I quietly joined the team a couple of months ago and although I can’t point to anything and go ‘I made that’, I have been working hard on improving things behind the scenes. Someone needs to keep things chugging along while everyone is working on the main event:

@@ -1,10 +1,12 @@
 ---
 title: How to create a super simple Christmas landing page
-category: Deconstructions
+date: 2014-12-23 00:00:00 +13:00
+permalink: "/deconstructions/2014/12/23/super-simple-christmas-landing-page.html"
+categories:
+- Deconstructions
 author: george
-image:
+image: 
 image_featured: false
-permalink: /deconstructions/2014/12/23/super-simple-christmas-landing-page.html
 ---
 
 This week I felt like doing something Christmas related, it seemed quite relevant. Instead of enjoying the summer sun that a New Zealand Christmas offers I decided to build an experimental landing page to share. Hope you enjoy it.

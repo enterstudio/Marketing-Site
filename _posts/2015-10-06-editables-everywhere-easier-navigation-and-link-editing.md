@@ -1,8 +1,10 @@
 ---
 title: Editables everywhere, easier navigation and link editing
-category: Features
+date: 2015-10-06 00:00:00 +13:00
+categories:
+- Features
 author: george
-image:
+image: 
 image_featured: false
 ---
 

@@ -1,11 +1,14 @@
 ---
 title: 8th August Feature Release
-category: Features
+date: 2014-08-08 00:00:00 +12:00
+permalink: "/features/2014/08/08/feature-release.html"
+categories:
+- Features
 author: george
-image: /images/blog/2014-08-08-feature-release/new-site-empty-state-header.png
+image: "/images/blog/2014-08-08-feature-release/new-site-empty-state-header.png"
 image_featured: true
-permalink: /features/2014/08/08/feature-release.html
 ---
+
 A decent sized feature update went out recently, although most of it is under the hood.
 
 The best new ability - you can now host sites on CloudCannon without a Dropbox account connected.

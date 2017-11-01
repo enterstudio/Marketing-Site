@@ -1,10 +1,12 @@
 ---
 title: How to create a browser window with just CSS and HTML
-category: Deconstructions
+date: 2014-11-21 00:00:00 +13:00
+permalink: "/deconstructions/2014/11/21/flat-css-browser-wrapper.html"
+categories:
+- Deconstructions
 author: george
-image:
+image: 
 image_featured: false
-permalink: /deconstructions/2014/11/21/flat-css-browser-wrapper.html
 ---
 
 This isn't the weekly deconstruction, that'll be out in a few days. This is a small post to tide you over until then.

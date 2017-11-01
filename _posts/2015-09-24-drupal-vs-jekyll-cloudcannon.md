@@ -1,10 +1,13 @@
 ---
 title: Drupal vs Jekyll + CloudCannon
-category: Comparison
+date: 2015-09-24 00:00:00 +12:00
+categories:
+- Comparison
 author: mike
-image:
+image: 
 image_featured: false
 ---
+
 There's a huge eco-system of plugins and add-ons available for any CMS. In this comparison we'll be using the content management systems straight out of the box to reduce the complexity and time to get the sites live.
 
 We're looking at Drupal, a powerful open source PHP CMS which has been around since 2000.

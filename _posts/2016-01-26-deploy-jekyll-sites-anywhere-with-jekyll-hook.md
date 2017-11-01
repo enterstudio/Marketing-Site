@@ -1,8 +1,10 @@
 ---
 title: Deploy Jekyll sites anywhere using jekyll-hook
-category: Tutorial
+date: 2016-01-26 00:00:00 +13:00
+categories:
+- Tutorial
 author: mike
-image: /images/blog/jekyll-hook/github.png
+image: "/images/blog/jekyll-hook/github.png"
 image_featured: false
 ---
 

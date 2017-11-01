@@ -1,10 +1,12 @@
 ---
 title: Controlling video playback with the mouse
-category: Tutorials
+date: 2014-12-01 00:00:00 +13:00
+permalink: "/tutorials/2014/12/01/controlling-video-playback-speed-with-the-mouse.html"
+categories:
+- Tutorials
 author: mike
-image: /images/blog/video-playback/old.png
+image: "/images/blog/video-playback/old.png"
 image_featured: true
-permalink: /tutorials/2014/12/01/controlling-video-playback-speed-with-the-mouse.html
 ---
 
 Until yesterday, my [personal website](http://mikeneumegen.com) was a video of me eating an apple with a moustache. The moustache is long gone so it's time for an update.

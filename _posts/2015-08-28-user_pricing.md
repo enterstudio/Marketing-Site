@@ -1,10 +1,12 @@
 ---
 title: Improved pricing
-category: Features
+date: 2015-08-28 00:00:00 +12:00
+permalink: "/features/2015/08/28/user_pricing.html"
+categories:
+- Features
 author: mike
-image:
+image: 
 image_featured: false
-permalink: /features/2015/08/28/user_pricing.html
 ---
 
 We have exciting updates for CloudCannon including new pricing, new UI and brand new features.

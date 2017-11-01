@@ -1,11 +1,14 @@
 ---
 title: Turn ANY template or theme into a CMS
-category: Tutorials
+date: 2014-09-01 00:00:00 +12:00
+permalink: "/tutorials/2014/09/01/turn-any-template-or-theme-into-a-cms.html"
+categories:
+- Tutorials
 author: sam
-image:
+image: 
 image_featured: false
-permalink: /tutorials/2014/09/01/turn-any-template-or-theme-into-a-cms.html
 ---
+
 CloudCannon makes it REALLY easy to get any HTML template or theme live and client editable.
 
 We shot a video to show you exactly how in less than 4 minutes.

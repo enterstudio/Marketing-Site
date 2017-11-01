@@ -1,8 +1,10 @@
 ---
 title: Three New Jekyll Templates
-category: Announcements
+date: 2017-03-28 00:00:00 +13:00
+categories:
+- Announcements
 author: mike
-image: /images/blog/3-new-jekyll-templates/base/1.jpeg
+image: "/images/blog/3-new-jekyll-templates/base/1.jpeg"
 image_featured: false
 ---
 

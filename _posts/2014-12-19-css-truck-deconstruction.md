@@ -1,10 +1,12 @@
 ---
 title: How to create an animated pickup in CSS and HTML
-category: Deconstructions
+date: 2014-12-19 00:00:00 +13:00
+permalink: "/deconstructions/2014/12/19/css-truck-deconstruction.html"
+categories:
+- Deconstructions
 author: george
-image:
+image: 
 image_featured: false
-permalink: /deconstructions/2014/12/19/css-truck-deconstruction.html
 ---
 
 This week I came across the [7mml](http://7mml.org/) website and I loved the loaded symbol. An animated car with a scrolling background. It was rather sluggish so I looked at how it was built. It was actually built using a large background image with JavaScript changing the background position.

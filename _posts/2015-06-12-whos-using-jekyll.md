@@ -1,10 +1,12 @@
 ---
 title: Who's using Jekyll?
-category: Jekyll
+date: 2015-06-12 00:00:00 +12:00
+permalink: "/jekyll/2015/06/12/whos-using-jekyll.html"
+categories:
+- Jekyll
 author: mike
-image:
+image: 
 image_featured: false
-permalink: /jekyll/2015/06/12/whos-using-jekyll.html
 ---
 
 [Jekyll’s](http://jekyllrb.com) roots are in providing a tool for hackers to host their blog. It’s not just hackers using Jekyll today though.

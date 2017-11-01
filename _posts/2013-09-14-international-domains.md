@@ -1,11 +1,14 @@
 ---
 title: International Domain Names
-category: Features
+date: 2013-09-14 00:00:00 +12:00
+permalink: "/features/2013/09/14/international-domains.html"
+categories:
+- Features
 author: mike
-image:
+image: 
 image_featured: false
-permalink: /features/2013/09/14/international-domains.html
 ---
+
 We've just pushed a whole heap of changes you're going to love.
 
 ### International Domain Names

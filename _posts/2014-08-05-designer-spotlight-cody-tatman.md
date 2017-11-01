@@ -1,11 +1,14 @@
 ---
 title: Designer Spotlight - Cody Tatman
-category: Interview
+date: 2014-08-05 00:00:00 +12:00
+permalink: "/interview/2014/08/05/designer-spotlight-cody-tatman.html"
+categories:
+- Interview
 author: sam
-image: /images/blog/ds-cody-tatman/cody-tatman.png
+image: "/images/blog/ds-cody-tatman/cody-tatman.png"
 image_featured: true
-permalink: /interview/2014/08/05/designer-spotlight-cody-tatman.html
 ---
+
 #### " She just took over a company that is *all paper*. She actually said to me “I don't know what I’m going to do Cody!” *All Paper!* "
 
 Cody Tatman, freelance web designer and digital marketer, on the ups and downs of his latest work, finding clients and living in a burnt out mill.
