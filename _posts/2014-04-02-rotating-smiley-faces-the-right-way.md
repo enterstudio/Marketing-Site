@@ -1,11 +1,14 @@
 ---
 title: How to turn text smiley faces the right way up with Smiley.js
-category: Freebies
+date: 2014-04-02 00:00:00 +13:00
+permalink: "/freebies/2014/04/02/rotating-smiley-faces-the-right-way.html"
+categories:
+- Freebies
 author: george
-image: /images/blog/smileys-js.png
+image: "/images/blog/smileys-js.png"
 image_featured: true
-permalink: /freebies/2014/04/02/rotating-smiley-faces-the-right-way.html
 ---
+
 I recently released a small script I built last year. I took the time to clean it up and I thought you all might enjoy it.
 
 I'm proud to announce the Smiley.js Jquery plugin. This tiny plugin can take some ordinary looking smiley faces and turn them into things that people actually recognise :D --> <span class="cheese">:D</span>.

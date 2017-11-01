@@ -1,10 +1,13 @@
 ---
 title: 7 Free Jekyll Templates
-category: Announcements
+date: 2016-12-05 00:00:00 +13:00
+categories:
+- Announcements
 author: mike
-image: /images/blog/7-free-jekyll-templates/frisco1.jpeg
+image: "/images/blog/7-free-jekyll-templates/frisco1.jpeg"
 image_featured: true
 ---
+
 Starting a new Jekyll site from scratch can be a pain. It's often easier to start with an existing site and modify for your use case. To help get you started on your next project we've created seven high quality Jekyll templates for common use cases. Even better they're all optimised for use with [CloudCannon](https://cloudcannon.com). The templates are licensed under MIT so you're free to use and modify them however you'd like.
 
 ## Usage

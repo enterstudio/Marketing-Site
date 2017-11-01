@@ -1,11 +1,14 @@
 ---
 title: Designer Spotlight - Jack Ewing and Seb Petravic
-category: Interview
+date: 2014-08-28 00:00:00 +12:00
+permalink: "/interview/2014/08/28/designer-spotlight-jack-ewing-and-seb-petravic.html"
+categories:
+- Interview
 author: sam
-image: /images/blog/ds-jack-ewing-and-seb-petravic/Seb_Jack.jpg
+image: "/images/blog/ds-jack-ewing-and-seb-petravic/Seb_Jack.jpg"
 image_featured: true
-permalink: /interview/2014/08/28/designer-spotlight-jack-ewing-and-seb-petravic.html
 ---
+
 > #### " First off we want everything we do to look good. But I guess the main purpose of the page is to visually explain what Glassjar does in a simple and effective way. " ####
 
 Jack Ewing and Seb Petravic are the front-end-dev/design combo powering group finance startup [Glassjar](https://glassjar.co/ "Stay mates with your roommates!").

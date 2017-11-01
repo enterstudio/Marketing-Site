@@ -1,10 +1,12 @@
 ---
 title: Running a kickass online conference with 400 attendees for $50
-category: JekyllConf
+date: 2015-05-19 00:00:00 +12:00
+permalink: "/jekyllconf/2015/05/19/lessons-learned-running-a-kickass-online-conference-50-dollars.html"
+categories:
+- JekyllConf
 author: sam
-image:
+image: 
 image_featured: false
-permalink: /jekyllconf/2015/05/19/lessons-learned-running-a-kickass-online-conference-50-dollars.html
 ---
 
 We ran JekyllConf, a free online global conference for all things Jekyll static site generator on May 2 2015. 400 people showed up. It cost $50. And we&#39;d never done anything like it before.

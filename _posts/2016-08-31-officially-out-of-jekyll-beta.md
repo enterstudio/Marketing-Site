@@ -1,8 +1,10 @@
 ---
 title: Officially Out of Jekyll Beta
-category: Announcements
+date: 2016-08-31 00:00:00 +12:00
+categories:
+- Announcements
 author: ross
-image: /images/blog/officially-out-of-jekyll-beta/logos@2x.png
+image: "/images/blog/officially-out-of-jekyll-beta/logos@2x.png"
 image_featured: true
 icons: true
 ---

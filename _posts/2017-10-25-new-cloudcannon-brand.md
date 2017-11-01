@@ -1,10 +1,13 @@
 ---
 title: New CloudCannon Brand
-category: Announcements
-image: /images/blog/new-brand/new-homepage.png
+date: 2017-10-25 00:00:00 +13:00
+categories:
+- Announcements
+image: "/images/blog/new-brand/new-homepage.png"
 image_featured: true
 author: mike
 ---
+
 We've been reassessing our brand and how it aligns with our values. Simplicity has always been at the core of everything we do at CloudCannon and we felt we could do better with our branding.
 
 ![Old Homepage](/images/blog/new-brand/old-homepage.png){: .screenshot srcset="/images/blog/new-brand/old-homepage.png 800w, /images/blog/new-brand/old-homepage@2x.png 1600w"}

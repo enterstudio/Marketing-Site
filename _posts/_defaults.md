@@ -1,8 +1,7 @@
 ---
-title:
 author: george
 category: Features
-image:
+image: 
 image_featured: false
 ---
 

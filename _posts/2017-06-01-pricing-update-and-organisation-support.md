@@ -1,11 +1,12 @@
 ---
-title: 'Pricing Update & Organisation Support'
-category: Announcements
+title: Pricing Update & Organisation Support
+date: 2017-06-01 00:00:00 +12:00
+categories:
+- Announcements
 author: george
-image:
+image: 
 image_featured: false
 ---
-
 
 Today we are announcing a big improvement to the way teams use CloudCannon. We have updated our pricing to be more team friendly and a simpler structure to get you going faster. Additionally, we have added Organisations which allows greater team management, branding and data sharing.
 

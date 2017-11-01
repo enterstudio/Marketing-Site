@@ -1,8 +1,10 @@
 ---
 title: Plugins and SSL Private Beta
-category: Features
+date: 2016-05-17 00:00:00 +12:00
+categories:
+- Features
 author: george
-image: /images/blog/plugins/filetypes@2x.png
+image: "/images/blog/plugins/filetypes@2x.png"
 image_featured: true
 image_featured_style: padded
 ---

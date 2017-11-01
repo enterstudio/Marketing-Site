@@ -1,10 +1,12 @@
 ---
 title: The ultimate list of services for static websites
-category: Tips
+date: 2014-12-12 00:00:00 +13:00
+permalink: "/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html"
+categories:
+- Tips
 author: mike
-image: /images/blog/apps-for-static-sites/static-jekyll-site-services.png
+image: "/images/blog/apps-for-static-sites/static-jekyll-site-services.png"
 image_featured: true
-permalink: /tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html
 ---
 
 Think you need a backend? Think again. With the huge number of plugins, apps and services you can drop into static sites, there's not a lot you can't do.

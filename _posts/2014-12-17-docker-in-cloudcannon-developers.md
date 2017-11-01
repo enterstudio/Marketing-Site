@@ -1,10 +1,12 @@
 ---
 title: Docker in CloudCannon
-category: Operations
+date: 2014-12-17 00:00:00 +13:00
+permalink: "/operations/2014/12/17/docker-in-cloudcannon-developers.html"
+categories:
+- Operations
 author: tim
-image:
+image: 
 image_featured: false
-permalink: /operations/2014/12/17/docker-in-cloudcannon-developers.html
 ---
 
 Environments can be tricky. Making sure the libraries are the same between your developer machines and production servers, updating dependencies consistently and onboarding new staff, it can turn into a mess. Luckily there are tools that can help us. I have previously used [Chef](https://www.chef.io/chef/) for this type of problem but now [Docker](https://www.docker.com/) has arrived to make things easier.

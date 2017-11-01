@@ -1,11 +1,14 @@
 ---
 title: Powerful Templates
+date: 2013-08-21 00:00:00 +12:00
+permalink: "/features/2013/08/21/powerful-templates.html"
+categories:
+- Features
 author: mike
-category: Features
-image:
+image: 
 image_featured: false
-permalink: /features/2013/08/21/powerful-templates.html
 ---
+
 You guys asked for it, and here it is. We're so excited to announce the brand new templating feature in CloudCannon.
 
 Making changes to the structure of your website can involve editing every single HTML page. Now you can include a file into your HTML pages making __updating a breeze__.

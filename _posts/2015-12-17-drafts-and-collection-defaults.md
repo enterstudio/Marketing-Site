@@ -1,8 +1,10 @@
 ---
 title: Output Drafts and Collection Defaults
-category: Features
+date: 2015-12-17 00:00:00 +13:00
+categories:
+- Features
 author: george
-image: /images/blog/drafts-and-defaults/defaults-in-browser@2x.png
+image: "/images/blog/drafts-and-defaults/defaults-in-browser@2x.png"
 image_featured: true
 ---
 

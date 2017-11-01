@@ -1,8 +1,10 @@
 ---
 title: Lightweight Social Share Buttons
-category: Tutorials
+date: 2017-02-01 00:00:00 +13:00
+categories:
+- Tutorials
 author: ross
-image: /images/blog/lightweight-social-share-buttons/buttons@2x.png
+image: "/images/blog/lightweight-social-share-buttons/buttons@2x.png"
 image_featured: true
 ---
 

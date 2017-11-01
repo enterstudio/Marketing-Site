@@ -1,8 +1,10 @@
 ---
 title: Editor Links
-category: Features
+date: 2016-01-25 00:00:00 +13:00
+categories:
+- Features
 author: ross
-image: /images/blog/editor-links/blog-posts@2x.png
+image: "/images/blog/editor-links/blog-posts@2x.png"
 image_featured: false
 ---
 

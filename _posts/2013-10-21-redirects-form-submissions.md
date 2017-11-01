@@ -1,10 +1,12 @@
 ---
 title: Form Submissions and Redirects
-category: Features
+date: 2013-10-21 00:00:00 +13:00
+permalink: "/features/2013/10/21/redirects-form-submissions.html"
+categories:
+- Features
 author: mike
-image:
+image: 
 image_featured: false
-permalink: /features/2013/10/21/redirects-form-submissions.html
 ---
 
 Today we're announcing two brand-new features which will help you make kick-ass websites.

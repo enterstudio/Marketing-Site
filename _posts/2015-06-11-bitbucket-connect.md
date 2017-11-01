@@ -1,10 +1,12 @@
 ---
 title: Bring your Jekyll site to life with Bitbucket Connect
-category: Features
+date: 2015-06-11 00:00:00 +12:00
+permalink: "/features/2015/06/11/bitbucket-connect.html"
+categories:
+- Features
 author: mike
-image:
+image: 
 image_featured: false
-permalink: /features/2015/06/11/bitbucket-connect.html
 ---
 
 Today we're bringing a new level of simplicity to managing [Jekyll](http://jekyllrb.com) websites with the CloudCannon add-on for Bitbucket Connect.

@@ -1,8 +1,10 @@
 ---
 title: Inline editing of Markdown pages
-category: Features
+date: 2016-04-11 00:00:00 +12:00
+categories:
+- Features
 author: george
-image: /images/blog/inline-editing/markdown-editable@2x.png
+image: "/images/blog/inline-editing/markdown-editable@2x.png"
 image_featured: false
 ---
 
